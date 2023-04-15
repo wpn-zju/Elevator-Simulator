@@ -956,7 +956,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0c183f02eb90a147941fda922a647f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isReplay: 0
 --- !u!4 &1186066502
 Transform:
   m_ObjectHideFlags: 0
